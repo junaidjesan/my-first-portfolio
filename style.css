@@ -29,6 +29,12 @@ section{
     background-repeat: no-repeat;
     background-image: url(junaid/top-banner.png);
 }
+.background2{
+    background-repeat: no-repeat;
+    background-image: url(junaid/dream-bg.png);
+    background-position: right;
+    margin-top: 60px;
+}
 .button{
 border: 2px;
 background-image: linear-gradient(orange, tomato);
@@ -38,8 +44,8 @@ border-radius: 5px;
 margin-left: 40%; text-decoration: none;
 }
 .photo{
-    height: 400px; width: 380px;
+    height: 500px; width: 480px;
 }
-.photo1{
-    height: 500px; width: 200px;
+.myphoto{
+    height: 600px; width: 150px;
 }
